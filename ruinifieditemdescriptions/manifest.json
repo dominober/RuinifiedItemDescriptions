@@ -1,0 +1,9 @@
+{
+    "name": "Ruinified Item Descriptions",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Zenithrium/UnifiedItemDescriptions",
+    "description": "Attempts to rephrase item names and descriptions in base game and SOTV to be more similar to new item names and descriptions in Seekers of the Storm. Item effect clarity is dubious at best.",
+    "dependencies": [
+	"RiskofThunder-R2API_Language-1.0.1"
+    ]
+}
