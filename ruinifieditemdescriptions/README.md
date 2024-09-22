@@ -15,8 +15,13 @@ This is not meant to insult or hold malice towards the developers at Gearbox who
 
 # Special Thanks
 - Thank you to...
-  - Zenithrium, swuff★, Slipskip, TheTimesweeper, saucy.wench, rob, as well as some friends and the rest of the SS2 Team for permitting me to subject them to some of these.
+  - Zenithrium, swuff★, yarrowyeen, Slipskip, TheTimesweeper, UnknownGlaze, saucy.wench, rob, as well as some friends and the rest of the SS2 Team for permitting me to subject them to some of these.
 
 # Changelog
+* v1.0.2
+  * Added VanillaVoid support.
+  * Added Equipments from 1.0 and DLC1.
+  * Fixed some 4am spelling.
+
 * v1.0.0: Release
   * Language

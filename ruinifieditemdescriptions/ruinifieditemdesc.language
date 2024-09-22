@@ -351,7 +351,7 @@
     "ITEM_BARRIERONKILL_DESC": "Kills grant the Survivor a <style=cIsUtility>15</style> <style=cStack>(+15 health per item stack)</style> health <style=cIsDamage>barrier</style>. Barrier <style=cIsHealth>decays</style> at a rate of 5% <style=cIsHealing>maximum health</style> per second.",
     "ITEM_BARRIERONKILL_LORE": "Order: Topaz Brooch\r\nTracking Number: 442*****\r\nEstimated Delivery: 05\/05\/2056\r\nShipping Method: High Priority\r\nShipping Address: Locker #2, Parghos Resort, Venus\r\nShipping Details:\r\n\r\nThe locker combination is 33941. Inside the package, besides your standard equipment, you will find the brooch. The appearance of this item is meant to blend in at the party. Pin it to your body and the software inside will map your extents. Activation will briefly cover you in ultra-phasic shielding.\r\n\r\nWhen you have taken out the target, the shield will switch on to protect you from any immediate retaliation measures they have installed in the security system. If the time frame is not enough to make your escape, the shield can be... reactivated, but we\u2019d like to keep casualties to a minimum.\r\n\r\nGood luck.\r\n",
 
-    "ITEM_ARMORREDUCTIONONHIT_NAME": "Amrmor Piercing Hammer",
+    "ITEM_ARMORREDUCTIONONHIT_NAME": "Armor Piercing Hammer",
     "ITEM_ARMORREDUCTIONONHIT_PICKUP": "Rapidly hitting enemies shreds armor.",
     "ITEM_ARMORREDUCTIONONHIT_DESC": "Rapidly landing 5 hits on an enemy reduces their armor by 60 for <style=cIsUtility>8</style> <style=cStack>(+8 seconds per additional item)</style> seconds.",
     "ITEM_ARMORREDUCTIONONHIT_LORE": "Shattering Justice Owner\u2019s Manual\r\n\r\nExcerpt from section 2.13:\r\n... and if the target material doesn\u2019t cave under the immense weight just keep hitting it until it does. The patented technology inside the face of this tool doesn\u2019t just use brute force to break down its mark, it also utilizes a formulated nano toxin, released through internal mechanisms, that builds up through subsequent contact. In other words, each hit makes it easier to break.\r\n\r\nPlease refer back to section 1.8 for information on proper handling and the included anti-toxin gloves...\r\n",
@@ -377,7 +377,7 @@
     "ITEM_PROTECTIONPOTION_DESC": "Gain a <style=cIsHealing>temporary barrier</style> for <style=cIsHealing>100% of your health</style> when falling below <style=cIsHealth>30% health</style>.",
 
     "ITEM_THORNS_NAME": "Bundle of Razors",
-    "ITEM_THORNS_PICKUP": "When taking damage 100% cahnce to inflict damage on nearby enemies.",
+    "ITEM_THORNS_PICKUP": "When taking damage 100% chance to inflict damage on nearby enemies.",
     "ITEM_THORNS_DESC": "<style=cIsUtility>100% chance</style> on taking damage to fire <style=cIsDamage>razors</style> that deal 160% damage to up to <style=cIsUtility>5</style> <style=cStack>(+2 per additional item)</style> targets in a <style=cIsUtility>25</style> <style=cStack>(+10 meters per stack)</style> <style=cIsUtility>meter</style> radius.",
     "ITEM_THORNS_LORE": "Order: Custom-made Barbed Wire, 200m\r\nTracking Number: 05***********\r\nEstimated Delivery: 02\/01\/2056\r\nShipping Method:  Priority\r\nShipping Address: PO Box 23-5B, Fort Blondershire, Colony of Man\r\nShipping Details: \r\n\r\nYou were right to come to me for this PREMIUM barbed wire. The other retail models won\u2019t get the job done like I do. Just cutting up invaders isn\u2019t enough \u2013 no sir - I built in a secret defense mechanism!\r\n\r\nBy cramming as many razors, exacto knives, and any other blade I could find into this thing, this beauty is a powder keg just WAITING to burst! This is my greatest work yet. \r\n\r\nIf I don\u2019t get good reviews, expect to hear from my lawyers!\r\n",
 
@@ -468,7 +468,7 @@
 
     "ITEM_SIPHONONLOWHEALTH_NAME": "Siphoning Urn",
     "ITEM_SIPHONONLOWHEALTH_PICKUP": "Sap and tar nearby enemies while remaining in combat.",
-    "ITEM_SIPHONONLOWHEALTH_DESC": "While the player is in combat, <style=cIsDamage>1</style> <style=cStack>(+1 per item stack)</style> enemies within 13 meters are <style=cDeath>sapped of life</style>, dealing 100% damage per second and applying <style=cIsDamage>tar</style>, while <style=cIsUtility>healing</style> the survivor equal to 100% of the damage dealt.",
+    "ITEM_SIPHONONLOWHEALTH_DESC": "<style=cIsHealth>Lifesteal</style>. While the player is in combat, <style=cIsDamage>1</style> <style=cStack>(+1 per item stack)</style> enemies within 13 meters are <style=cDeath>sapped of life</style>, dealing 100% damage per second and applying <style=cIsDamage>tar</style>, while <style=cIsUtility>healing</style> the survivor equal to 100% of the damage dealt.",
     "ITEM_SIPHONONLOWHEALTH_LORE": "<style=cMono>Lab Dissection Analysis File</style>\r\nSubject: Mired Urn\r\nTechnician: J. Flint\r\nTable Spec: Full Enclosure AY-2 with ARMM Kit\r\nNotes:\r\n\r\n- The survey team went through a lot of trouble to bring this one back.\r\n- Fitz was the only one left standing, in fact said he felt great, and the rest are still in the recovery ward\r\n- Subject is what appears to be a clay vase\r\n- Could this be part of a camouflaging defense mechanism?\r\n- Inside the vase is a dark gooey substance\r\n- Goo can articulate into functioning appendages\r\n- Intelligence of subject indeterminable at this point\r\n- When operating the ARMM kit, goo attaches to all but one of them\r\n- Instability in the ARMM power system aborts the procedure\r\n",
 
     "ITEM_MONSTERSONSHRINEUSE_NAME": "War Blades",
@@ -677,7 +677,7 @@
     "ITEM_EQUIPMENTMAGAZINEVOID_DESC": "Reduce the Survivor's Special skill <style=cIsUtility>cooldown</style> by 33%. Grants <style=cIsUtility>+1</style> <style=cStack>(+1 stock per additional item stack)</style> stock of their Special Skill. <style=cIsVoid>Corrupts all Battery Backups</style>.",
     "ITEM_EQUIPMENTMAGAZINEVOID_LORE": "\"Recycling is an important thing. And I don't mean recycling a glass bottle to help the environment - though that's important too! No, by 'recycling,' I mean taking one thing, and using it for another. For example, my Ukelele. I love this thing. It has electric properties, and passes them on to my attacks - free chain lightning! But what if I were to 'recycle' it? I think the Uke would make a pretty good melee weapon. Imagine, bludgeoning a Lemurian and pumping it full of volts, in one easy step.\n\nDo you get what I'm saying? There's opportunities for recycling all over the place. You just need to open your mind to the possibilities, and see... And do a little recycling. It's good for the environment.\"\n\n- Lost Journal, recovered from Petrichor V",
 
-    "ITEM_EXTRALIFEVOID_NAME": "Corrupted Creature", 
+    "ITEM_EXTRALIFEVOID_NAME": "Corrupted Creature",
     "ITEM_EXTRALIFEVOID_PICKUP": "Revives the user when killed. Consumed on use. <style=cIsVoid>Corrupts all Dio's Best Friends</style> and <style=cIsVoid>all corruptible items</style> on death.",
     "ITEM_EXTRALIFEVOID_DESC": "<style=cIsUtility>Revives</style> the user on death, consuming this item. <style=cIsVoid>Corrupts all Dio's Best Friends. Corrupts all Critically Charged Lenses. Corrupts all Jar of Wisps. Corrupts all Bleeding Daggers. Corrupts all Rusty Keys. Corrupts all Safest Plushies. Corrupts all Lucky Flowers. Corrupts all AtG Missiles. Corrupts all Gentle Fungi. Corrupts all Slow Shot. Corrupts all Electric Guitars. Corrupts all Battery Backups. Corrupts all Rime and Raging Rings. Corrupts all Titanic Knurls. Corrupts all Queen's Hearts. Corrupts all Emergency Stings. Corrupts all Halcyon Seeds. Corrupts all Rushing Wisps. Corrupts all Molten Perforators. Corrupts all Charged Perforators. Corrupts all Shatterspleens. Corrupts all Siphoning Urns. Corrupts all Item Scrap, Yellow. Corrupts all Allied Worship Units. Corrupts all Planula. Corrupts all Pearls. Corrupts all Irradiant Pearls</style>.",
     "ITEM_EXTRALIFEVOID_LORE": "\"Life finds a way. Even in the depths of creation, there's bound to be something crawling along the sand, just hoping to make it through the day.\n\nWhy don't you take a ride in their shoes, just for one day? You may come out of the experience with a brand new perspective.\"",
@@ -748,7 +748,267 @@
     "ITEM_VOIDMEGACRABITEM_NAME": "Strange Spawner",
     "ITEM_VOIDMEGACRABITEM_PICKUP": "Yields a Void ally every 60 seconds. <style=cIsVoid>Corrupts all Corrupts all Titanic Knurls. Corrupts all Queen's Hearts. Corrupts all Emergency Stings. Corrupts all Halcyon Seeds. Corrupts all Rushing Wisps. Corrupts all Molten Perforators. Corrupts all Charged Perforators. Corrupts all Shatterspleens. Corrupts all Siphoning Urns. Corrupts all Item Scrap, Yellow. Corrupts all Allied Worship Units. Corrupts all Planula. Corrupts all Pearls. Corrupts all Irradiant Pearls</style>.",
     "ITEM_VOIDMEGACRABITEM_DESC": "Every <style=cIsUtility>1</style><style=cStack>(-50% per additional item stack)</style> minute, gain either a Void Reaver, a Void Jailer, or a Void Devastator. <style=cIsVoid>Void</style> ally. Can have up to <style=cIsUtility>1</style><style=cStack>(+1 per additional item)</style> void ally at the same time. <style=cIsVoid>Corrupts all Yields a Void ally every 60 seconds. <style=cIsVoid>Corrupts all Corrupts all Titanic Knurls. Corrupts all Queen's Hearts. Corrupts all Emergency Stings. Corrupts all Halcyon Seeds. Corrupts all Rushing Wisps. Corrupts all Molten Perforators. Corrupts all Charged Perforators. Corrupts all Shatterspleens. Corrupts all Siphoning Urns. Corrupts all Item Scrap, Yellow. Corrupts all Allied Worship Units. Corrupts all Planula. Corrupts all Pearls. Corrupts all Irradiant Pearls</style>.",
-    "ITEM_VOIDMEGACRABITEM_LORE": "<style=cMono>Lab Dissection Analysis File</style>\r\nSubject: Newly Hatched Zoea\r\nTechnician: X. Shun\r\nTable Spec: BioSaf, spectroscopic hood enabled\r\nNotes:\r\n\r\n- Taking a moment to contain myself.\r\n- It's been quite a while since we've received a sample--INTACT sample--so I am being abundantly cautious.\r\n- Sample is in excellent condition.  I am pleased with the care Jiminez took compared to her predecessor.\r\n- Sample appears to be an undocumented carcinized species.  Perhaps a juvenile?\r\n- Attempting to biopsy epidermis\r\n- Exterior of the sample is too hard for my scalpel\r\n- I believe I have found the oral cavity.  Attemping oral biopsy.\r\n- <style=cMono>//--AUTO-TRANSCRIPTION FAILED --//</style>\r\n- <style=cMono>//--AUTO-TRANSCRIPTION FAILED --//</style>\r\n- Help\r\n<style=cMono>End Of File</style>\r\n"
+    "ITEM_VOIDMEGACRABITEM_LORE": "<style=cMono>Lab Dissection Analysis File</style>\r\nSubject: Newly Hatched Zoea\r\nTechnician: X. Shun\r\nTable Spec: BioSaf, spectroscopic hood enabled\r\nNotes:\r\n\r\n- Taking a moment to contain myself.\r\n- It's been quite a while since we've received a sample--INTACT sample--so I am being abundantly cautious.\r\n- Sample is in excellent condition.  I am pleased with the care Jiminez took compared to her predecessor.\r\n- Sample appears to be an undocumented carcinized species.  Perhaps a juvenile?\r\n- Attempting to biopsy epidermis\r\n- Exterior of the sample is too hard for my scalpel\r\n- I believe I have found the oral cavity.  Attemping oral biopsy.\r\n- <style=cMono>//--AUTO-TRANSCRIPTION FAILED --//</style>\r\n- <style=cMono>//--AUTO-TRANSCRIPTION FAILED --//</style>\r\n- Help\r\n<style=cMono>End Of File</style>\r\n",
+
+    "EQUIPMENT_COMMANDMISSILE_NAME": "Disposable AtG Missiles",
+    "EQUIPMENT_COMMANDMISSILE_PICKUP": "Fire many missiles.",
+    "EQUIPMENT_COMMANDMISSILE_DESC": "Fire a barrage of 12 <style=cIsDamage>AtG Missiles</style> that deal 3600% damage total.",
+    "EQUIPMENT_COMMANDMISSILE_LORE": "\u201CConsumers were shocked when a beloved game company released its latest cardboard assembly kit: a missile launcher.\u201D\r\n\r\n- The Saturn Reporter\r\n",
+
+    "EQUIPMENT_FRUIT_NAME": "Big Fruit",
+    "EQUIPMENT_FRUIT_PICKUP": "Heal.",
+    "EQUIPMENT_FRUIT_DESC": "Instantly heal <style=cIsHealing>50%</style> of the player's maximum health</style>.",
+    "EQUIPMENT_FRUIT_LORE": "\u201CThe Nutapple is an exotic fruit picked from the curious Xelphum Tree, native to coastal Gemines on Titan. Renowned for its sweet, yet cleansing flavor (and low caloric total), the Nutapple is a must-have for health enthusiasts everywhere.\u201D\r\n\r\n- Dietary Sciences Digest\r\n",
+
+    "EQUIPMENT_METEOR_NAME": "Storming Meteorites",
+    "EQUIPMENT_METEOR_PICKUP": "Summon many meteors. <color=#FF7F7F>Damages ALL targets struck.</color>",
+    "EQUIPMENT_METEOR_DESC": "100% chance to <style=cIsDamage>fire meteors</style> onto the stage, dealing 600% damage <style=cIsHealth>to all targets struck for 20 seconds</style>.",
+    "EQUIPMENT_METEOR_LORE": "What a... peculiar piece of the stars that serendipity has brought us. I'm sure you can make more. The ratios are simple. It should be quite fun.",
+
+    "EQUIPMENT_SOULJAR_NAME": "Will-o'-the-wisp",
+    "EQUIPMENT_SOULJAR_PICKUP": "Summon ghosts for every enemy on screen.",
+    "EQUIPMENT_SOULJAR_DESC": "Duplicate every enemy as a ghost to fight on your side for 15 seconds.",
+
+    "EQUIPMENT_BLACKHOLE_NAME": "Gravity Cube",
+    "EQUIPMENT_BLACKHOLE_PICKUP": "Create a black hole.",
+    "EQUIPMENT_BLACKHOLE_DESC": "Create a <style=cIsUtility>black hole</style> that sucks in enemies in a <style=cIsDamage>30m</style> radius. This effect lasts for 10 seconds.",
+    "EQUIPMENT_BLACKHOLE_LORE": "\u201CProfessors Mia Thatcher and Jared Malik report that the galaxy\u2019s first singularity containment lattice \u2013 or SCL, for short \u2013 has finished tests and is confirmed to be perfectly safe. \r\n\r\nWhile this is a historic scientific breakthrough, multiple scientists have spoken out about the implications of such a discovery - and what it could mean for the future of the humanity.\u201D\r\n\r\n- The Saturn Reporter, Front Page Headline\r\n",
+
+    "EQUIPMENT_GHOSTGUN_NAME": "Reaper's Remorse",
+    "EQUIPMENT_GHOSTGUN_PICKUP": "Summon a ghostly revolver that doubles damage on kill.",
+    "EQUIPMENT_GHOSTGUN_DESC": "Ghost Gun description.",
+
+    "EQUIPMENT_CRITONUSE_NAME": "Critically-Charged Display",
+    "EQUIPMENT_CRITONUSE_PICKUP": "Deal <style=cIsDamage>double damage</style> for 8 seconds.",
+    "EQUIPMENT_CRITONUSE_DESC": "<style=cIsDamage>Critical strike</style>. <style=cIsDamage>Critical strike</style>. <style=cIsDamage>Critical strike</style>. <style=cIsDamage>Critical strike</style>. <style=cIsDamage>Critical strike</style>. <style=cIsDamage>Critical strike</style>. <style=cIsDamage>Critical strike</style>. <style=cIsDamage>Critical strike</style>. <style=cIsDamage>Critical strike</style>. <style=cIsDamage>Critical strike</style>. <style=cIsDamage>Critical strike</style>. <style=cIsDamage>Critical strike</style>. <style=cIsDamage>Critical strike</style>. <style=cIsDamage>Critical strike</style>. <style=cIsDamage>Critical strike</style>. <style=cIsDamage>Critical strike</style>. <style=cIsDamage>Critical strike</style>. <style=cIsDamage>Critical strike</style>. <style=cIsDamage>Critical strike</style>. <style=cIsDamage>Critical strike</style>. Lasts 8 seconds.",
+    "EQUIPMENT_CRITONUSE_LORE": "Order: Ocular HUD\r\nTracking Number: 871*****\r\nEstimated Delivery: 09\/06\/2056\r\nShipping Method: Standard\r\nShipping Address: Greivenkamp, 5th Houston St, Prism Tower, Earth\r\nShipping Details:\r\n\r\nI wish you hadn't asked me for help. I was contacted by [REDACTED] and they explained... well, some things. Using their instructions, I was able to design this interface for prolonged exactness. The beauty of it all is that it will compound with any previous precision enhancing tools. Digital plus optical is the way to go.\r\n\r\nWhile I still don't know everything, I feel like I'm already in too deep. You won't hear from me anymore after this.\r\n",
+
+    "EQUIPMENT_DRONEBACKUP_NAME": "Spare Drone Parts",
+    "EQUIPMENT_DRONEBACKUP_PICKUP": "Summon 4 drones for 25 seconds.",
+    "EQUIPMENT_DRONEBACKUP_DESC": "Attempt to summon <style=cIsDamage>Strike Drones</style>, if there is available space on your team. Drones break down after 25 seconds.",
+    "EQUIPMENT_DRONEBACKUP_LORE": "\"The inclusion of Rapid Response Drone Squadrons (RRDS) by local law enforcement marked a dire turning point of Plank's Rebellion. After its massive \"success\" in quelling the Rebellion - and subsequent implementation across Mercury - underground drone hackers became highly sought after by black market users.\"\r\n\r\n-Overview of Drone Technology, Vol.2\r\n",
+
+    "EQUIPMENT_BFG_NAME": "Prion Accumulator",
+    "EQUIPMENT_BFG_PICKUP": "Fire a bolt of plasma, striking all nearby targets before exploding.",
+    "EQUIPMENT_BFG_DESC": "Fires a large plasma ball, scrambling the DNA of targets within <style=cIsUtility>35 meters</style> for 600% damage per second. Then, explode for 4000% damage in a <style=cIsUtility>20</style> meter radius.",
+    "EQUIPMENT_BFG_LORE": "Order: Particle Accelerator Component\r\nTracking Number: 993******\r\nEstimated Delivery: 06\/06\/2056\r\nShipping Method: Volatile\r\nShipping Address: Advance Particle Research Center, Mesquite, Earth\r\n\r\nI still don't get how you keep losing so many accumulators. I build 'em tough, and they're supposed to last. I ran the numbers on the comm speeds, and I'm pretty sure you sent for this order less than two days after you should've got the last one. \r\n\r\nIf this keeps up, you're gonna punch a hole in something where it doesn't belong. You've got a real good sponsor, Jim, but this stuff ain't cheap to ship. And it sure as heck ain't fast. So, I'm sending you a custom part. One that's as tough as I can make, and with a safety to keep you from overcharging it - that I'm sure you'll bypass anyway. \r\n\r\nAt least try not to blow this one to bits for the first week, alright? Make our hometown look good. You're not gonna show up those fancy Europeans with a smoking scrap heap.\r\n",
+
+    "EQUIPMENT_JETPACK_NAME": "Moth Wings",
+    "EQUIPMENT_JETPACK_PICKUP": "Fly. Lasts 15 seconds.",
+    "EQUIPMENT_JETPACK_DESC": "Grow wings for 15 seconds. During this time, grants the survivor <style=cIsDamage>+20% movement speed</style> and the ability to <style=cIsUtility>hover</style>. Use jump input to <style=cIsUtility>dash forward</style>.",
+    "EQUIPMENT_JETPACK_LORE": "Order: Milky Chrysalis\r\nTracking Number: 393*****\r\nEstimated Delivery: 11/27/2056\r\nShipping Method: High Priority/Biological\r\nShipping Address: Diptera Research Center, Io\r\nShipping Details:\r\n\r\nDeep within the plague wastes there is an alcove free from disease. It is home to a group of insects that have NOT acclimated to their environment. They survive not through resistance\u2026 but through transformation. \r\n\r\nI\u2019ve witnessed the creatures undergoing infinite states of metamorphosis. Each change that happens to them is reflected in the surrounding land. This constantly molds the area into something less toxic.\r\n\r\nI can\u2019t imagine that they don\u2019t have an upper limit - a final form. What adjustments would that final form bring? Are there any restrictions to what can be modified? I\u2019m sending this sample to you to study. Please be careful with it, as it\u2019s frozen in a cryo cell mid-transformation.\r\n",
+
+    "EQUIPMENT_LIGHTNING_NAME": "Tesla Rifle",
+    "EQUIPMENT_LIGHTNING_PICKUP": "Summon lightning on an enemy.",
+    "EQUIPMENT_LIGHTNING_DESC": "Activate Equipment to target an enemy's location. After <style=cIsUtility>0.5 seconds</style>, summon lightning dealing <style=cIsDamage>3000%</style> damage and stunning nearby targets.",
+    "EQUIPMENT_LIGHTNING_LORE": "Order: ZAP2-K \u201CRoyal\u201D Capacitor\r\nTracking Number: 145***************\r\nEstimated Delivery: 04\/30\/2056\r\nShipping Method:  Standard\r\nShipping Address: Power Plant 005, Route 10, Venus\r\nShipping Details: \r\n\r\nHere\u2019s a replacement for your damaged equipment. Crazy how gang activity is starting up again \u2013 even crazier that they\u2019d steal a capacitor from you guys. Anyway, you guys know the drill \u2013 make sure routinely discharge the capacitor\u2019s storage cells, as it may hold on to latent voltage. Oh, and make sure not to point it at anybody when you do.\r\n\r\n- The Saturn Reporter, Front Page Headline\r\n",
+
+    "EQUIPMENT_GOLDGAT_NAME": "Money Machine",
+    "EQUIPMENT_GOLDGAT_PICKUP": "Fire bullets. Costs gold to shoot.",
+    "EQUIPMENT_GOLDGAT_DESC": "Activate to toggle on an automated <style=cIsDamage>gatling cannon</style>, dealing <style=cIsDamage>100% damage</style> per shot. Costs <style=cIsHealing>$1</style> to fire a bullet, based on player level at the start of the stage.",
+    "EQUIPMENT_GOLDGAT_LORE": "Order: The Crowdfunder\r\nTracking Number: 783*****\r\nEstimated Delivery: 05/09/2056\r\nShipping Method: Standard\r\nShipping Address: 206 29th Ave, High Chariot, Mercury \r\nShipping Details:\r\n\r\nThe wealthy overlords on Primas V went to great measures to break the will of the lower class. They kept the threat of injury and death constant, which helped to keep their servants in check, but this was only half of their method. \r\n\r\nTo further highlight the vast differences in status, their extravagant weapons were fueled by currency - they were literally throwing money at them.\r\n\r\nI don\u2019t have to tell you how that turned out for them. It\u2019s why my client is in hiding now and has to pawn these things off. He thanks you for your patronage in these trying times.\r\n",
+
+    "EQUIPMENT_PASSIVEHEALING_NAME": "Gnarled Woodsprite",
+    "EQUIPMENT_PASSIVEHEALING_PICKUP": "Heal over time. Activate to send to an ally.",
+    "EQUIPMENT_PASSIVEHEALING_DESC": "Summon a Gnarled Woodsprite. Heal for <style=cIsHealing>10% maximum health</style>, then regenerate <style=cIsHealing>1.5%</style> health per second. \n\nActivate equipment to send to a targeted friendly <style=cIsUtility>ally</style>, or to recast on yourself.",
+    "EQUIPMENT_PASSIVEHEALING_LORE": "Order: Gnarled Woodsprite\r\nTracking Number: 447*****\r\nEstimated Delivery: 01/16/2056\r\nShipping Method: High Priority/Biological\r\nShipping Address: Happy Hope Children's Hospital, Waleton, Earth\r\nShipping Details:\r\n\r\nDr. Coleas's studies on the benefits of sprite-assisted care have paved the way for hospitals across Earth. These little guys take every opportunity to radiate amongst the injured and sick. \r\n\r\nWe've seen significant decreases in the recovery times of almost all patients. While effective, I'm not certain if this aura effect is transmitting anything at all. It might all be placebo; people could just be reacting to the spectacle of a cute lifeform putting on a light show in front of them.\r\n\r\nEither way, it's good to have them around, and I think they enjoy being around us too. I'm lucky enough to get to keep one in my home... for study purposes, of course. It may seem a little crass, but shipping these little guys in from off world does not seem to impact their attitude in the slightest.\r\n",
+
+    "EQUIPMENT_AFFIXRED_NAME": "Ifrit's Distinction",
+    "EQUIPMENT_AFFIXRED_PICKUP": "Become a Blazing elite.",
+    "EQUIPMENT_AFFIXRED_DESC": " ",
+
+    "EQUIPMENT_AFFIXBLUE_NAME": "Silence Between Two Strikes",
+    "EQUIPMENT_AFFIXBLUE_PICKUP": "Become an Overloading elite.",
+    "EQUIPMENT_AFFIXBLUE_DESC": "",
+
+    "EQUIPMENT_AFFIXGOLD_NAME": "Coven of Gold",
+    "EQUIPMENT_AFFIXGOLD_PICKUP": "Become a Gold elite.",
+    "EQUIPMENT_AFFIXGOLD_DESC": "",
+
+    "EQUIPMENT_AFFIXWHITE_NAME": "Her Biting Embrace",
+    "EQUIPMENT_AFFIXWHITE_PICKUP": "Become a Glacial elite.",
+    "EQUIPMENT_AFFIXWHITE_DESC": "",
+
+    "EQUIPMENT_AFFIXPOISON_NAME": "N'kuhana's Retort",
+    "EQUIPMENT_AFFIXPOISON_PICKUP": "Become a Malachite elite.",
+    "EQUIPMENT_AFFIXPOISON_DESC": "",
+
+    "EQUIPMENT_AFFIXHAUNTED_NAME": "Spectral Circlet",
+    "EQUIPMENT_AFFIXHAUNTED_PICKUP": "Become a Celestine elite.",
+    "EQUIPMENT_AFFIXHAUNTED_DESC": "",
+
+    "EQUIPMENT_AFFIXLUNAR_NAME": "Shared Design",
+    "EQUIPMENT_AFFIXLUNAR_PICKUP": "Become a Perfected elite.",
+    "EQUIPMENT_AFFIXLUNAR_DESC": "",
+
+    "EQUIPMENT_AFFIXEARTH_NAME": "His Reassurance",
+    "EQUIPMENT_AFFIXEARTH_PICKUP": "Become a Mending elite.",
+    "EQUIPMENT_AFFIXEARTH_DESC": "",
+
+    "EQUIPMENT_AFFIXSECRETSPEED_NAME": "Beyond the Limits",
+    "EQUIPMENT_AFFIXSECRETSPEED_PICKUP": "Become a Frenzied elite.",
+    "EQUIPMENT_AFFIXSECRETSPEED_DESC": "",
+
+    "EQUIPMENT_BURNNEARBY_NAME": "Ignition Tincture",
+    "EQUIPMENT_BURNNEARBY_PICKUP": "Self-immolate. <color=#FF7F7F>Hurts enemies and allies.</color>",
+    "EQUIPMENT_BURNNEARBY_DESC": "<style=cIsHealth>Set yourself on fire, inflicting <style=cIsDamage>5%</style> of your maximum health per second to you and everything around you</style>. This deals half damage versus allies, and quattuorvigintuple damage versus enemies</style>",
+    "EQUIPMENT_BURNNEARBY_LORE": "<style=cMono>\n========================================\n====   MyBabel Machine Translator   ====\n====     [Version 12.45.1.009 ]   ======\n========================================\nTraining� <100000000 cycles>\nTraining� <1453461 cycles>\nComplete!\nDisplay result? Y/N\nY\n================================</style>\n[Grix] ignites. We measure the time. \n.....\n.....\n.....\n...\n..\n.\n\nToo ordered. Composition is settling - I scrape the mixture from the bottom. \n[Ouju] ignites. We measure the time.\n....\n...\n...\n..\n.\n\nToo smooth. Ratio can be greater. I flatten the mixture. Black ichor of [Ouju] begins to pool around my feet. \n[Rhisko] ignites. I measure the time.\n...\n.\n\nI increase the ratio of Tetrafoil. I saturate the mixture. Ichor floods the chamber. Ash flutters in the air before settling on the floor.\n...\nI ignite. <He> measures my time.\n...\n...\n...\n..\n..\n..\n.\n\n<Perfect.>\n<style=cMono>\n================================\n",
+
+    "EQUIPMENT_SOULCORRUPTOR_NAME": "EQUIPMENT_SOULCORRUPTOR_NAME",
+    "EQUIPMENT_SOULCORRUPTOR_PICKUP": "EQUIPMENT_SOULCORRUPTOR_PICKUP",
+    "EQUIPMENT_SOULCORRUPTOR_DESC": "EQUIPMENT_SOULCORRUPTOR_DESC",
+
+    "EQUIPMENT_SCANNER_NAME": "Satellite Dish",
+    "EQUIPMENT_SCANNER_PICKUP": "Reveal all nearby interactables.",
+    "EQUIPMENT_SCANNER_DESC": "Ping all items, <style=cIsUtility>barrels</style>, <style=cIsUtility>chests</style>, <style=cIsUtility>3D Printers</style>, <style=cIsUtility>Rusted Lockboxes</style>, <style=cIsUtility>Multishops</style>, <style=cIsUtility>Cauldrons</style>, <style=cShrine>Shrines of Chance</style>, <style=cShrine>Shrines of the Mountain</style>, <style=cShrine>Shrines of the Woods</style>, <style=cShrine>Shrines of Blood</style>, <style=cShrine>Shrines of Combat</style>, <style=cShrine>Altars of Gold</style>, <style=cLunarObjective>Newt Altars</style>, <style=cLunarObjective>Lunar Buds</style>, <style=cLunarObjective>Shrines of Order</style>, <style=cLunarObjective>Cleansing Pool</style>, <style=cLunarObjective>Lunar Shops</style>, <style=cLunarObjective>Lunar Shop Rerollers</style>, <style=cLunarObjective>Seers</style>, <style=cLunarObjective>Suspended Survivors</style>, <style=cIsVoid>Void Cradles</style>, <style=cIsVoid>Encrusted Caches</style>, <style=cIsVoid>Void Potentials</style>, <style=cIsUtility>Stalks</style>, <style=cIsUtility>Machines</style>, <style=cIsUtility>Lemurian Eggs</style>, <style=cUserSetting>Radio Scanners</style>, <style=cUserSetting>Fans</style>, <style=cLunarObjective>Frogs</style>, <style=cDeath>Obliterators</style>, <style=cShrine>Beacons</style>, <style=cShrine>Geodes</style>, <style=cHumanObjective>Teleporters</style>, <style=cHumanObjective>Portals</style>, <style=cIsVoid>Vents</style>, <style=cIsVoid>Deep Void Signals</style>, <style=cIsVoid>Assemssment Crabs</style>, <style=cLunarObjective>Pillars</style>, <style=cIsHealing>BIGFRUIT_NAMEs</style>, and <style=cIsHealing>Vending Machines</style> within 500 meters. Lasts 10 seconds.",
+    "EQUIPMENT_SCANNER_LORE": "Order: Radar Communications Array\r\nTracking Number: 02****************\r\nEstimated Delivery: 01\/14\/2056\r\nShipping Method:  Standard\r\nShipping Address: PO Box 25-B, Fort G.B., Mercury\r\nShipping Details: \r\n\r\nYou\u2019re asking for trouble, ordering this through the UES. Not very covert. This thing can put out anything from infrared to UV waves \u2013 maybe it\u2019ll let you see the Enforcers coming to haul you off to jail as they kick down your door! Hah!\r\n",
+
+    "EQUIPMENT_CRIPPLEWARD_NAME": "Weakened Idol",
+    "EQUIPMENT_CRIPPLEWARD_PICKUP": "Deploy an effigy that applies <style=cIsDamage>Cripple</style> to everything inside. Can place up to 5.",
+    "EQUIPMENT_CRIPPLEWARD_DESC": "Summon an Effigy of Grief. Can place up to 5 per stage. \n \n<style=cIsHealth>All characters within range of an Effigy of Grief are slowed by 50% and lose 20 armor</style>.",
+    "EQUIPMENT_CRIPPLEWARD_LORE": "\u201CThis relic tells a story... But it is not a fairy tale. It\u2019s a tragedy. A story of betrayal, regret, and sorrow. A story of two.\u201D\r\n\r\n\u201CUh\u2026 okay\u2026? How the hell do you know that?\u201D\r\n",
+
+    "EQUIPMENT_GATEWAY_NAME": "Quantum Clay",
+    "EQUIPMENT_GATEWAY_PICKUP": "Create a tunnel between two locations.",
+    "EQUIPMENT_GATEWAY_DESC": "Activate equipment to create an exagerrated replication of the traditional <style=cIsUtility>double well</style> quantum tunnel probability, the endpoint of which rests at your <style=cIsDamage>reticle</style>. Entering either endpoint quantum tunnels you to the <style=cIsUtility>opposite end</style>, though quantum mechanics suggests it is still possible for you to be at the starting location once observed or at the opposing end of the quantum tunnel. Press the interact button at any point in the quantum tunnel to fall out, <style=cIsUtility>breaking the illusion of scientific accuracy</style> and inheriting the momentum of your travel through the tunnel. Come to think of it, this entire representation of quantum mechanics is inherently flawed by the fact that you can additionally be attacked while quantum tunneling, and you are directly observed by <style=cIsHealth>other enemies in the area</style>. The fact that you directly travel from point-A to point-B at relative complete stillness on the grander scale of lightspeed, and can leave that travel whenever you want, would imply you are actually simply taking a straight physical trip from point-to-point, <style=cIsUtility>supported</style> by the fact that quantum tunneling <style=cIsHealth>does not generate momentum</style>. You can't even activate it through any terrain, meaning there's no situation where you would phase through an object because the quantum tunnel created is apparently limited by the weakest link of your character's <style=cIsDamage>line of sight</style>, which otherwise would be irrelevant to where the endpoint is. If anything this is a matter transporter, considering your <style=cIsHealing>atoms</style> are <style=cIsDamage>compressed</style> into a direct communication link to the other end of the transporter. Something like a 'Matter Vase' maybe.",
+    "EQUIPMENT_GATEWAY_LORE": "\u201COne of Robins\u2019 most loved acts was the pitcher skit. \r\n\r\nThe skit would start off with Robins, playing the part of a flower keeper, getting ready to fill a vase with soil. He would pour, pour, and pour, but the vase wouldn\u2019t seem to get any fuller \u2013 as if the soil was disappearing infinitely. \r\n\r\nRobins would inspect the vase, looking at it up and down, but there weren\u2019t any holes in the thing. Finally, at the climax, Robins would hold it upside down over his head \u2013 upon which all of the soil poured in would land directly on his face.\u201D\r\n\r\n- Biography of Charles Robins\r\n",
+
+    "EQUIPMENT_TONIC_NAME": "Pearlescent Tonic",
+    "EQUIPMENT_TONIC_PICKUP": "Significantly boost your stats. <color=#FF7F7F>Chance on use to significantly ruin your stats</color>.",
+    "EQUIPMENT_TONIC_DESC": "Consume the Tonic to become <style=cIsDamage>Drunk</style>, and deal doubled damage, +70% attack speed, +20 <style=cIsUtility>armor</style>, +50% <style=cIsHealth>maximum health</style>, +300% <style=cIsHealing>health regeneration</style>, and +30% movement speed. Lasts 20 seconds. \n\n<style=cIsHealth>Gain a 20% chance to get Hungover, reducing all stats by -5% each stack, additively, any time you are not Drunk</style>.",
+    "EQUIPMENT_TONIC_LORE": "\u201CReality is whatever the mind decides it to be. Take a sip of the drink, and the mind becomes malleable. From there, you can shape it into whatever form you please... and the world around you follows your example.\u201D\r\n\r\n- Sigibold the Drunken\r\n",
+
+    "EQUIPMENT_QUESTVOLATILEBATTERY_NAME": "Unstable Battery Pack",
+    "EQUIPMENT_QUESTVOLATILEBATTERY_PICKUP": "Interact with decommissioned <style=cIsUtility>mechanical Survivors</style> while above half health to activate them. <color=#FF7F7F>At half health, die.</color>",
+
+    "EQUIPMENT_CLEANSE_NAME": "Power Puff",
+    "EQUIPMENT_CLEANSE_PICKUP": "Remove negative status effects.",
+    "EQUIPMENT_CLEANSE_DESC": "<style=cIsDamage>Cleanse</style> all timed debuffs, damage over time effects, stuns, freezes, and item cooldowns. <style=cIsDamage>Destroy</style> any projectiles in your immediate vicinity.",
+    "EQUIPMENT_CLEANSE_LORE": "Order: Blast Shower\r\nTracking Number: 152*****\r\nEstimated Delivery: 06/19/2056\r\nShipping Method: Standard\r\nShipping Address: Frontier Gate, Outer Edge Zone\r\nShipping Details:\r\n\r\nOuter Edge thanks you for your rewards redemption! It takes a real explorer to make their living on the frontier. As you undoubtedly know, REAL exploring is REAL messy. This portable unit will equip you with the modern convenience of taking a shower anywhere at any time!\r\n\r\nDisclaimer: Wear your protective suit while cleansing. Do not use product directly on skin. Blast Shower is only rated for B-class toxins and C-class foreign organisms. This company does not accept any responsibility for incidents as a result of an incomplete cleansing.\r\n",
+
+    "EQUIPMENT_FIREBALLDASH_NAME": "Travelling Egg.",
+    "EQUIPMENT_FIREBALLDASH_PICKUP": "Become a slow-moving fireball, dealing Damage from passing enemies and exploding.",
+    "EQUIPMENT_FIREBALLDASH_DESC": "Turn into a volcanic <style=cIsDamage>egg</style>. Lasts 5 seconds. Hitting any enemy for the first time will deal <style=cIsDamage>500%</style> damage and <style=cIsUtility>reset</style> the duration of the egg back to 5 seconds. After 5 seconds, or when using the interact key, <style=cIsDamage>explode</style> for 800% damage.",
+    "EQUIPMENT_FIREBALLDASH_LORE": "Order: Europan Great Dragon Egg\r\nTracking Number: 00****************\r\nEstimated Delivery: 10\/04\/2056\r\nShipping Method:  Biological \/ Fragile\r\nShipping Address: Xenobiology Wildlife Reserve, Titan\r\nShipping Details: \r\n\r\nMake sure to keep this thing nice and hot while it incubates. I know it may seem plenty hot already, but Great Dragons are creatures of flame \u2013 they live the stuff, breath the stuff. Oh, and please send me pictures of the little guy once it hatches. Great Dragons are always so cute when they first hatch.",
+
+    "EQUIPMENT_GAINARMOR_NAME": "Green Juggernaut",
+    "EQUIPMENT_GAINARMOR_PICKUP": "Become heavily armored. Lasts 5 seconds.",
+    "EQUIPMENT_GAINARMOR_DESC": "Gain <style=cIsHealing>500 armor</style> for <style=cIsUtility>5 seconds</style>.",
+    "EQUIPMENT_GAINARMOR_LORE": "Excerpt from the folk tale \"Clean as Jade\":\r\n\r\n\u201C... and while the peasants braced for the advancement of the Emperor\u2019s army, the stone carver finished her last strike on the giant sculpture. The clang of the flat tool against the beautiful, translucent green sheen of the solid surface echoed through the trees and around all the villagers. Their souls were cleansed and made whole by the heavenly stone, now formed into the imposing presence of an elephant.\r\n\r\nDetermination and resolve had essentially been carved into the very spirit of the ones who, just moments ago, were clutching their farming implements and make-shift weapons with trembling hands. The attack was repelled that day. The Emperor\u2019s army told stories about their metal weapons bouncing off the cloth of commoners. This inspiring encounter spread to other villages and...\u201D\r\n",
+
+    "EQUIPMENT_SAWMERANG_NAME": "Sharp Boomerang",
+    "EQUIPMENT_SAWMERANG_PICKUP": "Throw bleeding saws.",
+    "EQUIPMENT_SAWMERANG_DESC": "Fire three <style=cIsDamage>sawblades</style> that travel a short distance before returning, dealing 400% damage each and hitting multiple times. Enemies struck <style=cIsHealth>bleed</style> for 100% damage per second <style=cIsDamage>each</style>.",
+    "EQUIPMENT_SAWMERANG_LORE": "I'm so happy they let me bring my trusty disc toy on this trip! Trees need cutting? Disc toy. Baddies getting a little too close? Disc toy. Fun after-hours game of catch? Disc toy... but only if you're trained to catch it.",
+
+    "EQUIPMENT_RECYCLER_NAME": "Transmogrifier",
+    "EQUIPMENT_RECYCLER_PICKUP": "Transmogrify any Item or Equipment into a different one. Can only transmogrify once per location.",
+    "EQUIPMENT_RECYCLER_DESC": "Gain a <style=cIsDamage>Transmog reticle</style>. Activating your equipment while the reticle is on a <style=cIsUtility>valid Item</style> will transmogrify it into <style=cIsUtility>any other item</style> in that tier. Once an item has been <style=cIsDamage>Transmogrified</style>, that pickup location <style=cIsHealth>can no longer be Transmogrified</style>, such as when a <style=cIsDamage>Transmogrified</style> Equipment is swapped with a held Equipment.",
+    "EQUIPMENT_RECYCLER_LORE": "Order: \u201CTY-6G Recycler\u201D\r\nTracking Number: 02******\r\nEstimated Delivery: 11\\06\\2056\\\r\nShipping Method: Standard\r\nShipping Address: 700 Baler Ave, Seattle, Earth\r\nShipping Details:\r\n\r\nStandard issue recycling apparatus TY-6G. Please read the manual before operating. KEEP HANDS CLEAR OF THE TOP OPENING.\r\n\r\nUse included recycler rod to pack refuse into top. Our patented smart technology will find a new, usable form for the matter you insert. \r\n\r\nThank you for recycling!\r\n",
+
+    "EQUIPMENT_LIFESTEALONHIT_NAME": "Super Massive Leech",
+    "EQUIPMENT_LIFESTEALONHIT_PICKUP": "Gain <style=cIsHealth>Lifesteal</style>. Lasts 8 seconds",
+    "EQUIPMENT_LIFESTEALONHIT_DESC": "<style=cIsHealth>Lifesteal</style>. 20% of damage is returned as <style=cIsHealing>healing</style>. This effect lasts 8 seconds.",
+    "EQUIPMENT_LIFESTEALONHIT_LORE": "Return: Super Massive Leech\r\nTracking Number: 817*****\r\nEstimated Delivery: 07/01/2056\r\nShipping Method: High Priority/Biological\r\nShipping Address: Rare/Extinct Study Satellite, Beachfront, Saturn\r\nShipping Details:\r\n\r\nWhile the medical benefits of this creature are obvious, the psychological effects are not. Upon receiving a previous shipment, Carolyn took charge of research and experimentation with the organism. \r\n\r\nEverything was by the book until, one day, she walked into the lab with the specimen clearly attached to her neck. Incredibly startled, the rest of us eventually coaxed her into placing it back into containment.\r\n\r\nWe inspected the bite area but, after running all the standard tests, we did not observe any adverse side effects.\r\n\r\nShe stated that it made her feel fantastic, but no one else in the lab felt comfortable with her behavior.\r\n",
+
+    "EQUIPMENT_TEAMWARCRY_NAME": "Frenzied Rally",
+    "EQUIPMENT_TEAMWARCRY_PICKUP": "You and all your allies enter a frenzy.",
+    "EQUIPMENT_TEAMWARCRY_DESC": "All allies gain +50% <style=cIsUtility>movement</style> speed and <style=cIsDamage>+100% attack speed</style>. Lasts 7 seconds.",
+    "EQUIPMENT_TEAMWARCRY_LORE": "<style=cMono>Audio transcription complete from \"Carrion Crows Tour 2055: Special Edition\"\r\n\r\nPrinting...</style>\r\n\r\n\"Halfway through the tour we were at this little shop down in Groveside and the guy at the desk is trying to sell us random junk.\"\r\n\r\n\"Yeah, he was totally out of the loop, had no idea who we were.\"\r\n\r\n\"Yep, anyways, as a joke, I\u2019m thinking I\u2019ll buy this ancient looking drum and use it on stage at the next show. Then we\u2019d circle back and show this guy a video of his merch being used in the biggest performance on the planet.\"\r\n\r\n\"We tried to find him again, but the shop was all shut down. Couldn\u2019t figure out what happened to him.\"\r\n\r\n\"Thing is, that drum drove our fans wild. It turned out to be our most successful tour ever.\"\r\n",
+
+    "EQUIPMENT_DEATHPROJECTILE_NAME": "Accursed Effigy",
+    "EQUIPMENT_DEATHPROJECTILE_PICKUP": "Throw a doll that dies repeatedly. Activates all On-Kill effects.",
+    "EQUIPMENT_DEATHPROJECTILE_DESC": "Throw out a cursed Commando doll. Every second the doll <style=cIsDamage>flares</style> up, triggering any 'On-Kill' item effects held by the Survivor, for 8 seconds. Can have up to 3 out at once.",
+    "EQUIPMENT_DEATHPROJECTILE_LORE": "There is a note pinned to the doll:\r\n\r\nAyy, you\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re killin\u2019 me!\r\n\r\nYou\u2019re really killing me.\r\n",
+
+    "EQUIPMENT_MOLOTOV_NAME": "Cocktail Sixtet",
+    "EQUIPMENT_MOLOTOV_PICKUP": "Throw a bundle of molotov cocktails. Leave flaming pools on the ground on contact.",
+    "EQUIPMENT_MOLOTOV_DESC": "Fire 6 bundled molotovs. On contact with an enemy or surface, <style=cIsUtility>shatter</style> and ignite enemies hit for 500% damage. Molotovs leave a pool of fire that deals <style=cIsDamage>200% damage per second</style>.",
+    "EQUIPMENT_MOLOTOV_LORE": "Order: Ethanol Bottle (32 oz.), 6 Pack\r\nTracking Number: 81******\r\nEstimated Delivery: 05/8/2058\r\nShipping Method: Priority\r\nShipping Address: Teromere Manor, Privet Road, Mars\nShipping Details: Let our friends inside know that we're coming over for drinks on the 16th of June. It'll be a hell of a party, they should probably hit the road before things get too out of hand.",
+
+    "EQUIPMENT_IRRADIATINGLASER_NAME": "Volatile Mining Ray",
+    "EQUIPMENT_IRRADIATINGLASER_PICKUP": "Fire a laser that irradiates the target, causing damage to nearby enemies.",
+    "EQUIPMENT_IRRADIATINGLASER_DESC": "Fire a laser that irradiates targets for <style=cIsUtility>8</style> seconds, causing <style=cIsDamage>3x100%</style> damage to nearby enemies every <style=cIsDamage>8</style> seconds.",
+    "EQUIPMENT_IRRADIATINGLASER_LORE": "Used to excavate the planet of precious minerals, these devices were discontinued when it was discovered that they have a 95% chance to cause radiating poisoning on a full charge.",
+
+    "EQUIPMENT_LUNARPORTALONUSE_NAME": "Spare Newt Shrine",
+    "EQUIPMENT_LUNARPORTALONUSE_PICKUP": "Create a <style=cIsLunar>Lunar orb</style> on use.",
+    "EQUIPMENT_LUNARPORTALONUSE_DESC": "Prepare a <style=cIsLunar>Lunar Portal</style> at the Teleporter. Then, breaks.",
+    "EQUIPMENT_LUNARPORTALONUSE_LORE": "This is a placeholder. write something sad here :(",
+
+    "EQUIPMENT_VENDINGMACHINE_NAME": "On-Demand Eclipse Zero Vending Machine",
+    "EQUIPMENT_VENDINGMACHINE_PICKUP": "Call in an Eclipse Zero Vending Machine. Thank you for your purchase.",
+    "EQUIPMENT_VENDINGMACHINE_DESC": "Mark your location to be struck by an <style=cIsUtility>Eclipse Zero Vending Machine</style> in 5 seconds, dealing 2000% damage to hit targets. Purchase a <style=cIsHealing>refreshing beverage</style> for up to 3 nearby targets, restoring <style=cIsHealing>25% of maximum health</style>. Supply is limited.",
+    "EQUIPMENT_VENDINGMACHINE_LORE": "\"I sure am thirsty,\" Chen said as he filled a Lemurian with bullets.\n\nLuckily for him, he had found an Eclipse Remote Caffeinator aboard his vessel. Reaching in his pocket, Chen pressed the button marked with the Eclipse logo, and many systems began to whirr to life.\n\nHigh up in the atmosphere, a panel on the hull of the UES Safe Travels slid open with a clunk. Ready to be ejected, an Eclipse Zero Vending Machine (c2038) twinkled valiantly. Silently, the vending machine began its journey down to the surface.\n\nBack down on the planet, Chen was starting to run low on ammunition, and the Lemurians were closing in. But, just when the Lemurians were ready to tear Chen apart, who else but the Eclipse Zero Vending Machine came crashing down, squishing the Lemurians into a fine paste. Climbing up a mound of dead Lemurians, Chen entered 5 standard credits into the machine and ordered his favorite beverage, courtesy of the Eclipse Company. \"Wow, refreshing and life-saving! Eclipse, quenching thirsts no matter where you are!\" Chen smiled, grateful for Eclipse's galaxy-wide service and quality assurance.\n\n<style=cMono>This log entry was brought to you by Eclipse: The Galactic Quencher</style>",
+
+    "EQUIPMENT_GUMMYCLONE_NAME": "Goobo Jr.",
+    "EQUIPMENT_GUMMYCLONE_PICKUP": "Spawn Goobo Jr. to fight alongside you.",
+    "EQUIPMENT_GUMMYCLONE_DESC": "Spawn a duplicate of yourself <style=cIsUtility>made of goo</style>, with 300% of your health and damage. Lasts 30 seconds, then disintegrates.",
+    "EQUIPMENT_GUMMYCLONE_LORE": "<style=cMono>//--AUTO-TRANSCRIPTION FROM UES [Redacted] --//</style>\n\n\"I'm telling you, you need to be more strict with your little slime project, dude. I caught him rummaging through my stuff earlier. You know how hard it is to get stains out of these UES uniforms? \"\n\n\"His NAME is Goobo Jr., thank you very much. And I'm sure he was just playing. He likes his uncle Rich, isn't that right, Goobo?\"\n\n\"It doesn't have vocal chords, Mike.\"\n\n\"You don't have vocal chords.\"\n\n\"Real mature. Anyway, you better stop messing around, or the Captain will send that slime ball to the front lines. Now, I got to go do my job. Y'know, what we were sent here for, not playing dollhouse with your �science project' over here.\"\n\n\"Yeah, yeah... Alright, he's gone. Hey Goobo, listen up. You got a good look at Rich, right? I got an idea to knock him down a few notches. First, you gotta take on his shape, and then...\"\n\n<style=cMono>[THIS LOG HAS BEEN FLAGGED FOR REVIEW AS PART OF: COURT MARTIAL OF RICHARD D. BAGGINS]</style>",
+
+    "EQUIPMENT_BOSSHUNTER_NAME": "Biggest Boss Rifle",
+    "EQUIPMENT_BOSSHUNTER_PICKUP": "Instantly kill a large monster to drop its Boss item. Consumed on use.",
+    "EQUIPMENT_BOSSHUNTER_DESC": "Gain a <style=cIsDamage>Large Monster</style> reticle on any large monster that has a valid <style=cHumanObjective>Item drop</style>. Activating equipment will <style=cDeath>instantly kill</style> the large monster, dropping their respective item and converting this Equipment into a Biggest Boss.",
+    "EQUIPMENT_BOSSHUNTER_LORE": "\"I've always thought,\" said Rainsford, \"that the Bighorn Bison is the most dangerous of all big game.\"\n\nFor a moment the general did not reply; he was smiling his curious red-lipped smile. Then he said slowly, \"No. You are wrong, sir. The Bighorn Bison is not the most dangerous big game.\" He sipped his wine. \"Here in my preserve on this planet,\" he said in the same slow tone, \"I hunt more dangerous game.\"\n\n\"...Sir?\" General Hadbury turned to Rainsford. \"Tell me, Rainsford, what makes game... dangerous?\" Rainsford thought for a moment. \"...The, er, size, sir? Big animals are often pretty tough to take down.\" Habury nodded. \"Indeed, size can be important, but that's not it. In my eye, what makes game dangerous is... intelligence.\" Hadbury met Rainsford's gaze with a twinkle in his eye.\n\n\"The best hunt is always a match of wits. Say I were to lay some traps - how would I go about disguising them so that my prize won't spot them from a mile away? It makes things so much more fun, you see.\" Hadbury turned, walking towards the railing of the balcony overlooking his reserve. \"There's no fun to the hunt, or any game for that matter, if there is no risk involved... if there is no story to the prize. That is why, dear Rainsford, my halls are decorated with the spoils of hunts that could only be described as legendary.\" Hadbury's red-lipped smile grew into a red-lined grin. \"Now get the men ready, for we are going to hunt.\"",
+
+    "EQUIPMENT_BOSSHUNTERCONSUMED_NAME": "Biggest Boss",
+    "EQUIPMENT_BOSSHUNTERCONSUMED_PICKUP": "Great shot, boss.",
+    "EQUIPMENT_BOSSHUNTERCONSUMED_DESC": "Shout a hearty cheer on use.",
+    "EQUIPMENT_BOSSHUNTERCONSUMED_CHAT": "Ahoy!",
+
+    "EQUIPMENT_MULTISHOPCARD_NAME": "Debit Card",
+    "EQUIPMENT_MULTISHOPCARD_PICKUP": "Purchases give back 10% of gold spent. Multishops do not close.",
+    "EQUIPMENT_MULTISHOPCARD_DESC": "Activates any time you use any interactible that costs gold to use, <style=cIsUtility>refunding</style> 10% of the spent gold. Multishots keep all 3 terminals open as long as you have a Debit Card.",
+    "EQUIPMENT_MULTISHOPCARD_LORE": "<style=cMono>\/\/--AUTO-TRANSCRIPTION FROM UES [Redacted] --\/\/<\/style>\r\n\r\n\"When you're on the planet, keep a look out for any loose UES Security Chests. Orders from the higher ups, we're to retrieve any and all parcels that were aboard the Contact Light and bring 'em home. When you locate them, open the Security Chest and retrieve the item within. When you've verified the contents of the chest, move out and continue with your other assignments. Understood?\"\r\n\r\n\"Sir yes sir! But how are we going to open them? They're locked tight, aren't they?\"\r\n\r\n\"A good question, soldier. Everyone, take one Executive Credit Card, then pass the tray to your next squad mate.\"\r\n\r\n\"E-Executive cards...? Aren't these only used by like, super rich folks? How are we ever going to pay it back?\"\r\n\r\n\"What? No. You don't pay it back.\"\r\n\r\n\"But aren't we borrowing money?\"'\r\n\r\n\"Yes.\"\r\n\r\n\"So don't we have to pay it back, eventually?\"\r\n\r\n\"Yes, with another card.\"\r\n\r\n\"Sir, I don't understand.\"\r\n\r\n\"No, you just uh... well you see, the way these cards work is that, uh... [?] well you can take out a low-interest loan to... the buying power of debt is...[??]\"\r\n\r\n<style=cMono>\/\/--TRANSCRIPTION UNINTELLIGIBLE --\/\/<\/style>",
+
+    "VV_INTERACTABLE_SHATTERED_SHRINE_NAME": "Thing at the Mall",
+
+    "VV_ITEM_CLOCKWORK_ITEM_NAME": "Dubious Gizmo",
+    "VV_ITEM_CLOCKWORK_ITEM_PICKUP": "While not low health, gain items. Break. <style=cIsVoid>Corrupts all Delicate Watches</style>.",
+    "VV_ITEM_CLOCKWORK_ITEM_DESCRIPTION": "Next stage will grant <style=cIsDamage>3 <style=cStack>(+1 item per additional item)</style> items</style>. Taking damage to below <style=cIsHealth>25%</style> health breaks a random item in the survivor's inventory, inclusive.",
+
+    "VV_ITEM_BROKEN_MESS_NAME": "Egregious Mess",
+    "VV_ITEM_BROKEN_MESS_PICKUP": "<style=cIsDamage>VV_</style><style=cIsHealing>ITEM_</style><style=cIsUtility>BROKEN_</style><style=cIsVoid>MESS_</style><style=cIsHealth>_DESC</style>",
+    "VV_ITEM_BROKEN_MESS_DESCRIPTION": "VV_ITEM_BROKEN_MESS_DESC",
+
+    "VV_ITEM_ADZE_ITEM_NAME": "Deep Battle Axe",
+    "VV_ITEM_ADZE_ITEM_PICKUP": "Gain Damage on unhealthy enemies. <style=cIsVoid>Corrupts all Crowbars</style>.",
+    "VV_ITEM_ADZE_ITEM_DESCRIPTION": "When an enemy has less than <style=cIsHealing>100%</style> health, the survivor deals <style=cIsDamage>+30% <style=cStack>(+30% per item stac)k</style></style> Damage. <style=cIsVoid>Corrupts all Crowbars</style>.",
+
+    "VV_ITEM_EHANCE_VIALS_ITEM_NAME": "Power Potion",
+    "VV_ITEM_EHANCE_VIALS_ITEM_PICKUP": "Upgrade an item randomly after taking lethal damage. Consumed on use. <style=cIsVoid>Corrupts all Panic Potions</style>.",
+    "VV_ITEM_EHANCE_VIALS_ITEM_DESCRIPTION": "Falling below 25% maximum health will grant an upgraded <style=cIsDamage>item</style> and consume this item. Next stage regenerates one stack.",
+
+    "VV_ITEM_EMPTY_VIALS_NAME": "Consumed Potion",
+    "VV_ITEM_EMPTY_VIALS_PICKUP": "<style=cIsDamage>VV_</style><style=cIsHealing>ITEM_</style><style=cIsUtility>EMPTY_</style><style=cIsVoid>VIALS_</style><style=cIsHealth>_DESC</style>",
+
+    "VV_ITEM_EXT_EXHAUST_ITEM_NAME": "Coral Missiles",
+    "VV_ITEM_EXT_EXHAUST_ITEM_PICKUP": "Activating one of your skills fires variable rockets. <style=cIsVoid>Corrupts all Party Boxes</style>.",
+    "VV_ITEM_EXT_EXHAUST_ITEM_DESCRIPTION": "Using your Primary, Secondary, Utility, or Special Skill fire <style=cIsUtility>1</style> rocket per 2 seconds of the Primary, Secondary, Utility, or Special skill's <style=cIsUtility>cooldown</style>, dealing <style=cIsDamage>80%</style> <style=cStack>(+40% damage per item stack)</style> damage. <style=cIsVoid>Corrupts All Party Boxes</style>.",
+
+    "VV_ITEM_CRYOCANISTER_ITEM_NAME": "Frozen Fuel Cell",
+    "VV_ITEM_CRYOCANISTER_ITEM_PICKUP": "Defeated enemies explode in ice. <style=cIsVoid>Corrupts all Diesel Bullets</style>.",
+    "VV_ITEM_CRYOCANISTER_ITEM_DESCRIPTION": "Killing an enemy <style=cIsDamage>slows</style> enemies by up to <style=cIsUtility>10m <style=cStack>(+2.5m per item stack)</style></style> away and deals <style=cIsDamage>15%</style> damage, lasting <style=cIsUtility>4</style> seconds. Inflicting <style=cIsUtility>3</style> stacks</style> <style=cIsDamage>freezes</style> the target. <style=cIsVoid>Corrupts all Diesel Bullets</style>.",
+
+    "VV_ITEM_CORNUCOPIACELL_ITEM_NAME": "Helix Mark",
+    "VV_ITEM_CORNUCOPIACELL_ITEM_PICKUP": "Next stage spawns a hazardous Void Signal randomly on the map. <style=cIsVoid>Corrupts all Shipping Request Forms</style>.",
+    "VV_ITEM_CORNUCOPIACELL_ITEM_DESCRIPTION": "<style=cIsUtility>Next stage</style> will spawn a <style=cIsHealth>unsafe</style> interactible containing 3 items (<color=#FFFFFF>31.6%</color>/<color=#9CE562>8%</color>/<color=#E15141>0.4%</color>/<color=#DD7AC6>47.4%</color>/<color=#CE5CB2>12%</color>/<color=#BC499F>0.6%</color>) <style=cStack>(Increases rarity chances of the items per additional item)</style> in a random location. <style=cIsVoid>Corrupts all Shipping Request Forms</style>.",
+
+    "VV_ITEM_BARRIERLOTUS_ITEM_NAME": "Sluggish Daisy",
+    "VV_ITEM_BARRIERLOTUS_ITEM_PICKUP": "Teleporters release a slowing explosion. <style=cIsVoid>Corrupts all Healing Roses</style>",
+    "VV_ITEM_BARRIERLOTUS_ITEM_DESCRIPTION": "Teleporters and other <style=cHumanObjective>Charging Zones</style> release a slowing wave to all Enemies in the zone by <style=cIsUtility>100%</style> for 25 seconds, decaying over time. This effect happens <style=cIsUtility>1</style> <style=cStack>(+1 per additional item)</style> times. <style=cIsVoid>Corrupts all Healing Roses</style>.",
+
+    "VV_ITEM_EXEBLADE_ITEM_NAME": "Royal Execution",
+    "VV_ITEM_EXEBLADE_ITEM_PICKUP": "Elites die <style=cDeath>twice</style>. <style=cIsVoid>Corrupts all Elite Revolutions</style>.",
+    "VV_ITEM_EXEBLADE_ITEM_DESCRIPTION": "Elite enemies <style=cIsDamage>killed</style> by the player explode for <style=cIsDamage>100%</style> damage in a <style=cIsDamage>12 meter</style> diameter. They also activate <style=cIsDamage>On-Kill</style> effects <style=cIsUtility>1</style> <style=cStack>(+1 time per item stack)</style> extra times. <style=cIsVoid>Corrupts all Elite Revolutions</style>.",
+
+    "VV_ITEM_DASHQUILL_ITEM_NAME": "Pseudoneutronal Pen",
+    "VV_ITEM_DASHQUILL_ITEM_PICKUP": "The Survivor can <style=cIsUtility>dash</style> one additional time. <style=cIsVoid>Corrupts all Jump Feathers</style>.",
+    "VV_ITEM_DASHQUILL_ITEM_DESCRIPTION": "Gain <style=cIsUtility>1</style> <style=cStack>(+1 dash per item stack)</style> dash to your <style=cIsUtility>total Dash count</style>. <style=cIsVoid>Corrupts all Jump Feathers</style>.",
+
+    "VV_ITEM_ORRERY_ITEM_NAME": "Grand Planetarium",
+    "VV_ITEM_ORRERY_ITEM_PICKUP": "Non <style=cIsDamage>double damage</style> gains Damage. <style=cIsVoid>Corrupts all Laser Scopes</style>.",
+    "VV_ITEM_ORRERY_ITEM_DESCRIPTION": "Non <style=cIsDamage>double damage</style> makes the Survivor deal <style=cIsDamage>10%</style> more damage up to <style=cIsUtility>5</style> <style=cStack>(+5 times per item stack)</style> times. <style=cDeath>Damage is reset upon dealing double damage</style>. <style=cIsVoid>Corrupts all Laser Scopes</style>."
 
   }
 }
